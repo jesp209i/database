@@ -7,7 +7,7 @@ services:
             - 1433:1433
         environment:
             - ACCEPT_EULA=Y
-            - SA_PASSWORD=Jesp209i
+            - SA_PASSWORD=Jesp209i # Choose a better password
         volumes: 
             - dbdata:/var/opt/mssql
 volumes: 
