@@ -1,4 +1,12 @@
 # Assignments
+## Small NULL tasks
+* Create table ==> [SQL](./demo-employeeInsert.sql)
+1. Select Employees without bonus
+2. Employees where the bonus is below 1000
+3. Employees there the salery and bonus is below 1200
+
+=>[SQL](./demo-employeeNullQueries.sql)
+
 ## Task 4.1
 Function
 1. Create a scalar function. You can use perhospital but also other dbs you have. Find something that would be useful as a function
